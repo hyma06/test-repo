@@ -1,0 +1,4 @@
+class capital
+{
+	void main( )
+}
